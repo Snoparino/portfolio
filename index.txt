@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Ahmed Eprahim
+Ahmed Eprahim
 Web developer
 
 Show Contacts
